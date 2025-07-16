@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Airicuki ♥
 - 👀 I’m interested in learning about Python, Salesforce, Devops and Cloud Infrastructure.
-- 🌱 I’m currently learning the last course of my Computer's Engineer degree at UPM.
+- 🌱 I’m currently learning about Salesforce and Devops on my next challenge: Devops Master at UNIR University!
 - 💞️ I’m looking to collaborate on all the possible projects that I would be able to participate. The important is to learn!
 
 <!---
